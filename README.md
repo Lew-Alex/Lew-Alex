@@ -4,7 +4,7 @@ I build competition robots and write the software that drives them: control loop
 
 ## What I work on
 
-- **Competition robotics:** VEX Robotics (team 5225A) and the World Robot Olympiad (team PiThons), writing firmware for ESP32 and Teensy microcontrollers, including IMU sensor fusion and particle filter localization.
+- **Competition robotics:** VEX Robotics (team 5225A), writing robot code for the V5 Brain on PROS, and the World Robot Olympiad (team PiThons), writing firmware for ESP32 and Teensy microcontrollers with IMU sensor fusion and particle filter localization.
 - **Game-playing AI:** search and learning based agents, including a minimax Reversi player and a NEAT trained Tetris agent.
 - **Competitive programming:** solutions to the Canadian Computing Competition (CCC) archive.
 - **Small hardware and web projects:** an Arduino based digital sailing compass, and assorted scripting projects.
